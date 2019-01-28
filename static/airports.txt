@@ -1,0 +1,42 @@
+    {
+        'name': 'Murtala Mohammed International Airport',
+        'location_key': '253768',
+        'location': 'Lagos'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    },
+    {
+        'name': 'Akwa Ibom International Airport',
+        'location_key': '251987',
+        'location': 'Akwa Ibom'
+    }
+
+]
